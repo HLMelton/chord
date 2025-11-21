@@ -1,5 +1,7 @@
 package main
 
+#Firewall util for adding ports 1433 and 1434
+
 import (
 	"fmt"
 	"os"
